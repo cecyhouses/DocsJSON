@@ -1,0 +1,20 @@
+{
+  "BusinessContactInformation": {
+    "BusinessName": "",
+    "StreetAddress": "",
+    "City,State,ZipCode": "",
+    "Number": "(000) 000-0000",
+    "Email": "",
+    "Website": ""
+  },
+  "Invoice Number": "# 12345",
+  "Date": "mm/dd/yyyy",
+  "TermsOfPayment": "Net 30",
+  "DescriptionOfGoodsOrServices": {
+    "Product/Service": "",
+    "Description": "",
+    "Qty/hrs": "",
+    "Rate": "",
+    "Amount": ""
+  }
+}
